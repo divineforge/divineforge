@@ -9,7 +9,9 @@
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
-          "outputs": ["{options.outputPath}"],
+          "outputs": [
+            "{options.outputPath}"
+          ],
           "options": {
             "outputPath": "dist/apps/neon",
             "index": "apps/neon/src/index.html",
@@ -17,8 +19,14 @@
             "polyfills": "apps/neon/src/polyfills.ts",
             "tsConfig": "apps/neon/tsconfig.app.json",
             "inlineStyleLanguage": "scss",
-            "assets": ["apps/neon/src/favicon.ico", "apps/neon/src/assets"],
-            "styles": ["apps/neon/src/styles.scss"],
+            "assets": [
+              "apps/neon/src/favicon.ico",
+              "apps/neon/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
+              "apps/neon/src/styles.scss"
+            ],
             "scripts": []
           },
           "configurations": {
@@ -83,10 +91,45 @@
         },
         "test": {
           "builder": "@nrwl/jest:jest",
-          "outputs": ["coverage/apps/neon"],
+          "outputs": [
+            "coverage/apps/neon"
+          ],
           "options": {
             "jestConfig": "apps/neon/jest.config.js",
             "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "builder": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/angular",
+            "port": 4400,
+            "config": {
+              "configFolder": "apps/neon/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "builder": "@nrwl/storybook:build",
+          "outputs": [
+            "{options.outputPath}"
+          ],
+          "options": {
+            "uiFramework": "@storybook/angular",
+            "outputPath": "dist/storybook/neon",
+            "config": {
+              "configFolder": "apps/neon/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
           }
         }
       }
@@ -112,7 +155,9 @@
         "lint": {
           "builder": "@nrwl/linter:eslint",
           "options": {
-            "lintFilePatterns": ["apps/neon-e2e/**/*.{js,ts}"]
+            "lintFilePatterns": [
+              "apps/neon-e2e/**/*.{js,ts}"
+            ]
           }
         }
       }
