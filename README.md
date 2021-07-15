@@ -2,6 +2,29 @@
 
 # Divineforge
 
+## Hi there 👋
+
+- 🔭 I'm aspired to be happy person contented with my familes, and being humorous, with handsome resources for disposal!
+- 🌱 I’m currently learning to build applications with Heroku!
+- 🤔 I’m looking for help with GameDev resources, and knowledge, and assistance. Thinking to build a game of a mix of Role Play and Dungeon Adventure.
+
+<!--
+**divineforge/divineforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
 This project was generated using [Nx](https://nx.dev).
 
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
@@ -103,3 +126,5 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
+
+
