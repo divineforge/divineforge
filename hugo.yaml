@@ -17,9 +17,13 @@ params:
         url: "https://blog.divineforge.com"
       - name: Gozen.dev
         url: "https://gozen.dev"
+      - name: "Buy Me a Coffee"
+        url: "https://www.buymeacoffee.com/divineforge"
 
   socialIcons: # optional
     - name: "LinkedIn"
       url: "https://linkedin.com/in/cheongweelau"
     - name: "Github"
       url: "https://github.com/divineforge"
+    - name: "buymeacoffee"
+      url: "https://www.buymeacoffee.com/divineforge"
