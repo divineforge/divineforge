@@ -1,0 +1,25 @@
+baseURL: https://divineforge.com
+languageCode: en-us
+title: Divineforge
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "William Weelau CHEONG" # optional default will be site title
+    subtitle: "Aspiring Technopreneur"
+    # imageUrl: "ht" # optional
+    imageTitle: "Cheong Weelau" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Blog
+        url: "https://blog.divineforge.com"
+      - name: Gozen.dev
+        url: "https://gozen.dev"
+
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/cheongweelau"
+    - name: "Github"
+      url: "https://github.com/divineforge"
