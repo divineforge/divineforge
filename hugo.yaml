@@ -6,19 +6,26 @@ theme: ["PaperMod"]
 params:
   profileMode:
     enabled: true
-    title: "William Weelau CHEONG" # optional default will be site title
-    subtitle: "Aspiring Technopreneur"
+    title: "Divineforge Technology Enterprise" # optional default will be site title
+    subtitle: |
+      by William Weelau CHEONG, I found my life in building things,
+      enjoy searching those lego bricks, from a piles from loose bricks
+      aspire to build a tower.
     # imageUrl: "ht" # optional
     imageTitle: "Cheong Weelau" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Blog
-        url: "https://blog.divineforge.com"
-      - name: Gozen.dev
+      - name: Dev.to Community
+        url: "https://dev.to/divineforge"
+      - name: Golang Technology on Gozen.dev
         url: "https://gozen.dev"
-      - name: "Buy Me a Coffee"
+      - name: Hashnode Blog (Closing)
+        url: "https://blog.divineforge.com"
+      - name: "Buy Me a Drink ;)"
         url: "https://www.buymeacoffee.com/divineforge"
+      # - name: "(Open) Divineforge GitHub"
+        # url: https://github.com/dvfx-io
 
   socialIcons: # optional
   - name: "x"
