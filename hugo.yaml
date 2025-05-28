@@ -12,7 +12,7 @@ params:
       I found my life in building things,
       enjoy searching those lego bricks, from a piles from loose bricks
       aspire to build a tower.
-    # imageUrl: "ht" # optional
+    imageUrl: "divineforge-logo-500x.png"
     imageTitle: "Cheong Weelau" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
@@ -29,16 +29,18 @@ params:
         # url: https://github.com/dvfx-io
 
   socialIcons: # optional
-  - name: "LinkedIn"
-    url: "https://linkedin.com/in/cheongweelau"
+  - name: "dev"
+    url: "https://dev.to/divineforge"
   - name: "Github"
     url: "https://github.com/divineforge"
+  - name: "LinkedIn"
+    url: "https://linkedin.com/in/cheongweelau"
   - name: "buymeacoffee"
     url: "https://www.buymeacoffee.com/divineforge"
-  - name: "x"
-    url: "https://x.com/divineforge"
   - name: "hackerrank"
     url: "https://www.hackerrank.com/cheongweelau"
+  - name: "x"
+    url: "https://x.com/divineforge"
 
   assets:
     favicon: "favicon.ico"

@@ -10,3 +10,4 @@ Hoping to be able to give back to the community in the future.
 
 ## the Papermod icons references
 - here <https://github.com/adityatelange/hugo-PaperMod/wiki/Icons>
+- See The List of Support Social Icons: <https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-icons/>
