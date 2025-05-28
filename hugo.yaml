@@ -8,7 +8,8 @@ params:
     enabled: true
     title: "Divineforge Technology Enterprise" # optional default will be site title
     subtitle: |
-      by William Weelau CHEONG, I found my life in building things,
+      by William Weelau CHEONG
+      I found my life in building things,
       enjoy searching those lego bricks, from a piles from loose bricks
       aspire to build a tower.
     # imageUrl: "ht" # optional
@@ -20,7 +21,7 @@ params:
         url: "https://dev.to/divineforge"
       - name: Golang Technology on Gozen.dev
         url: "https://gozen.dev"
-      - name: Hashnode Blog (Closing)
+      - name: (Closing) Hashnode Blog
         url: "https://blog.divineforge.com"
       - name: "Buy Me a Drink ;)"
         url: "https://www.buymeacoffee.com/divineforge"
@@ -28,13 +29,13 @@ params:
         # url: https://github.com/dvfx-io
 
   socialIcons: # optional
-  - name: "x"
-    url: "https://x.com/divineforge"
   - name: "LinkedIn"
     url: "https://linkedin.com/in/cheongweelau"
   - name: "Github"
     url: "https://github.com/divineforge"
   - name: "buymeacoffee"
     url: "https://www.buymeacoffee.com/divineforge"
+  - name: "x"
+    url: "https://x.com/divineforge"
   - name: "hackerrank"
     url: "https://www.hackerrank.com/cheongweelau"
