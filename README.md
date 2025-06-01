@@ -13,4 +13,5 @@ Hoping to be able to give back to the community in the future.
 - See The List of Support Social Icons: <https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-icons/>
 
 ## Deployment
-- move towards cloudflare pages publication.
+- moved towards cloudflare pages publication.
+- HUGO_VERSION=0.147.7 (as of 2025.06) current compatible version with PaperMod
