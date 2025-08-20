@@ -3,6 +3,17 @@ languageCode: en-us
 title: Divineforge
 theme: ["PaperMod"]
 
+menu:
+  main:
+    - identifier: "custom"
+      name: "Go Zen"
+      url: "https://gozen.dev"
+      weight: 10
+    - identifier: "posts"
+      name: "Posts"
+      url: "/posts/"
+      weight: 1
+
 params:
   profileMode:
     enabled: true
@@ -42,8 +53,16 @@ params:
   - name: "x"
     url: "https://x.com/divineforge"
 
+  ShowBreadCrumbs: true
   assets:
     favicon: "favicon.ico"
     favicon16x16: "favicon-16x16.png"
     favicon32x32: "favicon-32x32.png"
     apple_touch_icon: "apple-touch-icon.png"
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
