@@ -103,7 +103,7 @@ divineforge.com/
 │   └── Recent blog posts preview
 │
 ├── Escape Plan (/escape-plan/)
-│   ├── Origin story (Maybank frustrations)
+│   ├── Origin story (corporate frustrations)
 │   ├── The problem (organizational constraints)
 │   ├── The solution (AI-powered product building)
 │   ├── Transparent progress dashboard
@@ -274,7 +274,7 @@ Frontend form → API Gateway → Lambda → SES
 
 **Articles to Write:**
 1. "Why I'm Escaping Corporate Banking (Slowly)"
-   - The Maybank frustration story
+   - The corporate frustration story
    - What's broken in enterprise IT
    - The plan forward
 
@@ -470,18 +470,18 @@ Frontend form → API Gateway → Lambda → SES
 
 ## 🎮 Related Projects (Context)
 
-### Gzen.io / Gzen.app - Game Development Studio
+### Game Development Projects
 **Status:** Planned, not active yet
 **Focus:** Philosophical adventure games (Godot + Flutter)
 **Revenue:** Steam, itch.io, mobile app stores
-**Relationship:** Separate brand but shares DivineForge tech infrastructure
+**Relationship:** Shares DivineForge tech infrastructure
 **Timeline:** Start after DivineForge generates $500+/month
 
-### Reyneese.com - Anonymous Creative Outlet
+### Creative Writing Projects
 **Status:** Planned, not active yet
-**Focus:** WoW adventures + Buddhist wisdom writings
+**Focus:** Personal storytelling and philosophical writings
 **Revenue:** Patreon, affiliate, eventual books
-**Relationship:** Completely separate identity, AI-assisted writing
+**Relationship:** AI-assisted creative outlet
 **Timeline:** Start after DivineForge generates $1,000+/month
 
 **Strategic Note:** DivineForge gets 100% focus until it generates sustainable revenue. Other projects are validated ideas but must wait.

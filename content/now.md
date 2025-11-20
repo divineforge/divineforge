@@ -85,8 +85,8 @@ I'm in Phase 1 of the escape plan: establishing the foundation for building reve
 **Staying Focused:**
 - ❌ Not building SaaS (too complex, too slow to revenue)
 - ❌ Not doing freelance/Upwork (time-for-money trap)
-- ❌ Not starting Gzen.io game studio yet (waits until $500/month)
-- ❌ Not starting Reyneese.com writing yet (waits until $1K/month)
+- ❌ Not starting game development projects yet (waits until $500/month)
+- ❌ Not starting creative writing projects yet (waits until $1K/month)
 - ❌ Not over-engineering (ship functional, iterate)
 
 **The Rule:** DivineForge gets 100% focus until it generates sustainable revenue.

@@ -12,7 +12,7 @@ comments: false
 
 ## The Problem: Corporate IT Constraints
 
-I'm a software architect at Maybank, one of Malaysia's largest banks. On paper, it sounds impressive. In reality, I spend my days navigating bureaucracy, sitting through endless meetings, and watching innovative ideas die in committee.
+I'm a software architect at a major financial institution in Malaysia. On paper, it sounds impressive. In reality, I spend my days navigating bureaucracy, sitting through endless meetings, and watching innovative ideas die in committee.
 
 The corporate IT world has a fundamental problem: **organizational constraints kill velocity.**
 

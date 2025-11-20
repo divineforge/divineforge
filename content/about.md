@@ -12,7 +12,7 @@ comments: false
 
 ## Who I Am
 
-I'm **William Weelau Cheong**, a software architect based in Malaysia, currently working at Maybank (one of Southeast Asia's largest banks). By day, I navigate enterprise IT bureaucracy. By night (and weekends), I'm building my way out of corporate constraints using AI-powered development.
+I'm **William Weelau Cheong**, a software architect based in Malaysia, currently working at a major financial institution. By day, I navigate enterprise IT bureaucracy. By night (and weekends), I'm building my way out of corporate constraints using AI-powered development.
 
 **DivineForge** is my escape vehicle—a platform for building digital products, documenting the journey, and sharing everything I learn along the way.
 
@@ -124,12 +124,12 @@ Why $5K?
 
 ### Future Projects (Post-Revenue)
 
-**Gzen.io / Gzen.app** - Game development studio
+**Game Development**
 - Philosophical adventure games (Godot + Flutter)
 - Launches after DivineForge hits $500/month
 
-**Reyneese.com** - Anonymous creative writing
-- WoW adventures + Buddhist wisdom
+**Creative Writing Projects**
+- Personal storytelling and philosophy
 - Launches after DivineForge hits $1,000/month
 
 **Strategic Focus:** DivineForge gets 100% attention until it generates sustainable revenue. Other projects wait.
