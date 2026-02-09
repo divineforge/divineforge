@@ -1,0 +1,66 @@
+# -- Theme Parameters --
+# DivineForge Work Log
+
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["worklog"]
+
+disableImageOptimization = false
+disableTextInHeader = false
+
+[header]
+  layout = "basic"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 10
+  showMoreLink = true
+  showMoreLinkDest = "/worklog/"
+  cardView = false
+  cardViewScreenWidth = false
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = false
+  showZenMode = false
+
+[list]
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  groupByYear = true
+  cardView = false
+
+[taxonomy]
+  showTermCount = true
+  showBreadcrumbs = true
+  cardView = false
+
+[term]
+  showBreadcrumbs = true
+  showTableOfContents = false
+  groupByYear = true
+  cardView = false
