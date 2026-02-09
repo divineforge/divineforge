@@ -67,4 +67,7 @@ disableTextInHeader = false
 
 [buymeacoffee]
   identifier = "divineforge"
-  globalWidget = false
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "right"
