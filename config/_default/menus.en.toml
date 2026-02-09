@@ -1,0 +1,31 @@
+# -- Main Menu --
+# Navigation: About, Work Log, Notes (3-item nav)
+# Archive and Tags remain accessible via URL, just not in top nav
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Work Log"
+  pageRef = "worklog"
+  weight = 20
+
+[[main]]
+  name = "Notes"
+  pageRef = "notes"
+  weight = 30
+
+
+# -- Footer Menu --
+
+[[footer]]
+  name = "Archive"
+  pageRef = "archive"
+  weight = 10
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 20

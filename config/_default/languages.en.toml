@@ -1,0 +1,23 @@
+disabled = false
+languageCode = "en-gb"
+languageName = "English"
+weight = 1
+title = "DivineForge"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006.0102"
+  description = "DivineForge Work Log — Documenting real work, real constraints, real outcomes."
+
+[params.author]
+  name = "William"
+  image = "divineforge-logo-500x.png"
+  headline = "Work Log"
+  bio = "Shipping software in enterprise environments. Documenting what worked, what didn't, and what actually shipped."
+  links = [
+    { github = "https://github.com/divineforge" },
+    { linkedin = "https://linkedin.com/in/cheongweelau" },
+    { x-twitter = "https://x.com/divineforge" },
+  ]
